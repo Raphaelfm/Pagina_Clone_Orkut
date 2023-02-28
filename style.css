@@ -1,0 +1,43 @@
+body {
+    background-color: #D4DDED;
+    font-family: "latolight", Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.6em;
+    color: #000000;
+}
+
+#orkut-image {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 65px;
+}
+
+#image-content {
+    margin-top: 40px;
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;    
+}
+
+#menu {
+    text-align: initial;
+    margin-left: 330px;
+}
+
+#menu-orkut {
+    color: #899bfb;
+}
+
+#text-content {
+    padding-top: 30px;
+    margin-left: 330px;
+    margin-right: 330px;
+    width: auto;
+    font-size: 16px;
+}
+
+#formulario {
+    margin: 0 330px 0 330px;
+    font-size: large;
+    content:normal;
+}
